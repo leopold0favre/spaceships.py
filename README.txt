@@ -1,5 +1,6 @@
 
 A lancer avec "python3 spaceships.py"
+/!\ La dernière version de PYGAME est requise !
 
 Mon tout premier projet dans le domaine de la programmation.
 
